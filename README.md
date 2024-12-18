@@ -104,8 +104,5 @@ project-directory/
 - Improve the UI with advanced customization options.
 - Integrate OCR capabilities for scanned PDFs.
 
----
 
-## License
-This project is licensed under the MIT License.
 
